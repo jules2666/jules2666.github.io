@@ -26,7 +26,3 @@ It serves as a portfolio of my **projects, experiences, and skills**.
 
 You can explore my **CV**, projects, and professional experiences here! 🚀  
 
-## Get in Touch  
-📧 **Email**: [jules.malcato@gmail.com](mailto:jules.malcato@gmail.com)  
-🔗 **GitHub**: [github.com/jules2666](https://github.com/jules2666)  
-🔗 **LinkedIn**: [linkedin.com/in/jules-pina-malcato-351b561b7/](https://www.linkedin.com/in/jules-pina-malcato-351b561b7/)  
