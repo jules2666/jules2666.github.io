@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "CV"
@@ -57,4 +56,3 @@ redirect_from:
 📞 **Téléphone** : 06 22 93 92 19  
 🔗 **GitHub** : [github.com/jules2666](https://github.com/jules2666)  
 🔗 **LinkedIn** : [linkedin.com/in/jules-pina-malcato-351b561b7/](https://www.linkedin.com/in/jules-pina-malcato-351b561b7/)  
-
