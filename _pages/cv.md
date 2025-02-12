@@ -53,4 +53,12 @@ I am always eager to learn, take on new challenges, and expand my knowledge in t
 
 ### **Beehive Simulation**  
 - Collaborative work in a duo on GitHub  
-- Programming and integration of complex data structures (graphs, trees, FIFO queues, stacks, linked 
+- Programming and integration of complex data structures (graphs, trees, FIFO queues, stacks, linked lists)  
+- Graphical interface development using SDL2  
+
+## Links and Contact Information  
+📍 **Address**: 1 rue bis du Haras, Buc, France  
+📧 **Email**: [jules.malcato@gmail.com](mailto:jules.malcato@gmail.com)  
+📞 **Phone**: +33 6 22 93 92 19  
+🔗 **GitHub**: [github.com/jules2666](https://github.com/jules2666)  
+🔗 **LinkedIn**: [linkedin.com/in/jules-pina-malcato-351b561b7/](https://www.linkedin.com/in/jules-pina-malcato-351b561b7/)  
