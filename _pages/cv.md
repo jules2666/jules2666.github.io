@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /resume/
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv
+  - /resume
 ---
 
 {% include base_path %}
@@ -55,6 +55,24 @@ I am always eager to learn, take on new challenges, and expand my knowledge in t
 - Collaborative work in a duo on GitHub  
 - Programming and integration of complex data structures (graphs, trees, FIFO queues, stacks, linked lists)  
 - Graphical interface development using SDL2  
+
+## Publications  
+  <ul>{% for post in site.publications reversed %}  
+    {% include archive-single-cv.html %}  
+  {% endfor %}</ul>  
+
+## Talks  
+  <ul>{% for post in site.talks reversed %}  
+    {% include archive-single-talk-cv.html  %}  
+  {% endfor %}</ul>  
+
+## Teaching  
+  <ul>{% for post in site.teaching reversed %}  
+    {% include archive-single-cv.html %}  
+  {% endfor %}</ul>  
+
+## Service and Leadership  
+* Actively engaged in cybersecurity research and technical communities.  
 
 ## Links and Contact Information  
 📍 **Address**: 1 rue bis du Haras, Buc, France  
