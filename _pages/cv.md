@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "CV"
@@ -9,56 +10,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Formation
+### ESIEA - Paris  
+**Programme Grande École d’Ingénieurs, 3ème année (2022 - Aujourd’hui)**  
+- Graphes et applications  
+- Réseaux  
+- Système d’exploitation  
+- Programmation orientée objet  
+- Bases de données  
+- Cryptographie et Cryptanalyse  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### KMUTT - Bangkok  
+**Échange universitaire (Janvier 2025 - Juin 2025)**  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Expériences Professionnelles
+### Vendeur saisonnier - **Novo Viande** *(Juillet 2023)*
+- Relation client  
+- Gestion de caisse  
+- Gestion des stocks  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Vendeur saisonnier - **Alain Afflelou Groupe** *(Juillet - Août 2022)*
+- Relation client  
+- Mise en rayon des produits  
+- Travail en équipe  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Compétences
+- **Langages** : Python, Java, C  
+- **Outils** : Pack Office, Git, Linux, Wireshark, MongoDB  
+- **Soft skills** : Travail d’équipe, Esprit critique, Curiosité  
+- **Langues** : TOEIC 900  
+
+## Projets Professionnels
+### **Conception d’une bibliothèque en C**
+- Manipulation des grands entiers  
+- Gestion de mémoire dynamique  
+- Optimisation de programme  
+
+### **Simulation de Ruche**
+- Travail collaboratif en duo sur GitHub  
+- Programmation et liaison de structures de données complexes (graphes, arbres, files FIFO, piles, listes chaînées)  
+- Programmation d’une interface graphique avec SDL2  
+
+## Liens et Coordonnées
+📍 **Adresse** : 1 rue bis du Haras, Buc, France  
+📧 **Email** : [jules.malcato@gmail.com](mailto:jules.malcato@gmail.com)  
+📞 **Téléphone** : 06 22 93 92 19  
+🔗 **GitHub** : [github.com/jules2666](https://github.com/jules2666)  
+🔗 **LinkedIn** : [linkedin.com/in/jules-pina-malcato-351b561b7/](https://www.linkedin.com/in/jules-pina-malcato-351b561b7/)  
+
